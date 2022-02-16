@@ -2,7 +2,9 @@
 
 An oBTC price widget, simply paste this^ into your favorite widget app
 
-**Example:** Download widgery from: https://play.google.com/store/apps/details?id=com.urysoft.widgery
+**Example:**
+
+ Download widgery from: https://play.google.com/store/apps/details?id=com.urysoft.widgery
 
 and after that open the app and set these settings: 
 
