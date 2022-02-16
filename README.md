@@ -4,7 +4,7 @@ An oBTC price widget, simply paste this into your favorite widget app
 
 Example: Download widgery from: https://play.google.com/store/apps/details?id=com.urysoft.widgery
 and after that open the app and set these settings: 
-⠀
+
 ![image](https://user-images.githubusercontent.com/75716744/154339889-9b64d2e1-6a87-4b7d-9297-cfc8644adaa2.png)
 
 
