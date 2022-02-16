@@ -1,6 +1,6 @@
 # https://the-red-eye-studio.github.io/
 
-An oBTC price widget, simply paste this into your favorite widget app
+An oBTC price widget, simply paste this^ into your favorite widget app
 
 **Example:** Download widgery from: https://play.google.com/store/apps/details?id=com.urysoft.widgery
 
