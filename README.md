@@ -2,7 +2,7 @@
 
 An oBTC price widget, simply paste this into your favorite widget app
 
-Example: Download widgery from: https://play.google.com/store/apps/details?id=com.urysoft.widgery
+**Example:** Download widgery from: https://play.google.com/store/apps/details?id=com.urysoft.widgery
 
 and after that open the app and set these settings: 
 
@@ -16,6 +16,5 @@ I'd advise you to change the size, this seems to be the sweet spot:
 
 
 
-NOTE:
-
-100% of the code is from coinpaprika's site: https://coinpaprika.com/coin/obtc-optical-bitcoin/#!widget
+**NOTE: **
+** 100% of the code is from coinpaprika's site: https://coinpaprika.com/coin/obtc-optical-bitcoin/#!widget **
