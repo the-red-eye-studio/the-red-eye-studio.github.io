@@ -18,5 +18,5 @@ I'd advise you to change the size, this seems to be the sweet spot:
 
 
 
-**NOTE: **
-** 100% of the code is from coinpaprika's site: https://coinpaprika.com/coin/obtc-optical-bitcoin/#!widget **
+**NOTE **
+**100% of the code is from coinpaprika's site: https://coinpaprika.com/coin/obtc-optical-bitcoin/#!widget**
